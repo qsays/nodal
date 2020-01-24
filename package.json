@@ -16,7 +16,7 @@
   "dependencies": {
     "api-res": "~0.0.4",
     "async": "~1.5.2",
-    "cmnd": "~0.1.0",
+    "cmnd": "~0.3.0",
     "colors": "~1.1.0",
     "cross-spawn-async": "~2.1.6",
     "deep-equal": "~1.0.1",
